@@ -4,7 +4,7 @@ This is my personal homepage, powered by [Jekyll](https://jekyllrb.com/) and Git
 
 Based on some parts of [jekyll-boilerplate](https://github.com/HugoGiraudel/jekyll-boilerplate) and [Lagrange](https://github.com/LeNPaul/Lagrange).
 
-## Development
+## розробка
 
 A `docker-compose.yml` file is provided for the developer's convenience, which allows Jekyll to be installed via Docker.
 
