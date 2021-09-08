@@ -10,7 +10,7 @@ title: Володимир Коваленко
 description: Інженер
 baseurl: '' # the subpath of your site, e.g. /blog
 permalink: '/blog/:title/'
-url: 'https://treba.ml' # the base hostname & protocol for your site
+url: 'https://vokov.netlify.app' # the base hostname & protocol for your site
 
 author:
   name: Володимир Коваленко
